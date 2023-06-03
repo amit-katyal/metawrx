@@ -1,5 +1,7 @@
 # Web 3.0 NFT Marketplace
 
+> **Note:** This project is deprecated and no longer maintained. We are working on an updated and newer version in another repository. Stay tuned for more updates.
+
 In this project, we created a web 3.0 application with the help of Tailwind CSS, Next.js, Sanity.io etc. Our ultimate goal was to set up a blockchain-based marketplace where individuals could mint their own NFTs and grow their unique personalized NFT collections. As a result, they were able to trade and acquire their own NFTs simply within the interface. We also implemented Metamask authentication for the secure service. While working on the front end, users also made updates to the stored data in the collections on blockchain and NFTs. We aspired to create this web 3.0 app on the Ethereum blockchain and then release it to the public.
 
 ## Features
