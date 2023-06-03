@@ -1,27 +1,25 @@
-# Next.js + Tailwind CSS Example
+# Web 3.0 NFT Marketplace
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+In this project, we created a web 3.0 application with the help of Tailwind CSS, Next.js, Sanity.io etc. Our ultimate goal was to set up a blockchain-based marketplace where individuals could mint their own NFTs and grow their unique personalized NFT collections. As a result, they were able to trade and acquire their own NFTs simply within the interface. We also implemented Metamask authentication for the secure service. While working on the front end, users also made updates to the stored data in the collections on blockchain and NFTs. We aspired to create this web 3.0 app on the Ethereum blockchain and then release it to the public.
 
-## Preview
+## Features
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+- Mint your own NFTs with custom metadata and images
+- Browse and filter NFT collections by categories, prices, popularity and more
+- Buy and sell NFTs using Ethereum cryptocurrency
+- Manage your NFT portfolio and track your transactions
+- Connect your Metamask wallet for secure and easy access
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+## Installation
 
-## Deploy your own
+To run this project locally, you need to have Node.js and npm installed on your machine. You also need to have Metamask extension installed on your browser and an Ethereum account with some ETH balance.
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+1. Clone this repository: `git clone https://github.com/amit-katyal/metawrx.git`
+2. Navigate to the project directory: `cd metawrx`
+3. Install the dependencies: `npm install`
+4. Start the development server: `npm run dev`
+5. Open your browser and go to `http://localhost:3000`
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+## License
 
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
